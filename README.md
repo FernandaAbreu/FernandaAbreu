@@ -1,7 +1,7 @@
 
 ### Hi there! 😁
 ## About me
-I'm **Fernanda Abreu**, a Software Engineer with 10 years of experience. I was born , raised and live in São Paulo, Brazil. I'm CTO at **Vá de Táxi**.
+I'm **Fernanda Abreu**, a Software Engineer with 11 years of experience. I was born , raised and live in São Paulo, Brazil. I'm Specilist Developer at **Zup**.
 - I have a Bachelor degree in Analysis and systems development 
 - My favorite programming languages nowadays are **Kotlin**, **C#** ,**Python** and **JavaScript**
 - My current interests are **Developer Productivity**, **Developer Tools**, **Build Engineering** , **Data Science** and **Foreign Languages** 
